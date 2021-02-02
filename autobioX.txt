@@ -1,3 +1,70 @@
+NOM ENGINEER WORK SYSTEM
+
+Model CPS-9204
+Copyright (c) 2105, 2109, 2114
+NOM Corporation
+All Rights Reserved
+real mem = 8192 TB
+avail mem = 32768 TB
+
+primary data cache: 512 KB
+primary inst. cache: 768 KB
+secondary cache: 32768 KB
+
+login: DRa. BLU
+code:******
+
+>device -dv -a
+reading "M.X.S."
+reading "BD-E"
+reading "WARNING"
+
+SAAVEKDASH X
+
+SPECIFICATION
+
+"HEAD" IS EQUIPPED WITH:
+
+Broad-range Poetic Eye camera
+Ultra-sensitive Poetic Voice Recognition System
+Poetic Voice Generation System made by HAYATOM Inc.
+
+"CHEST" IS EQUIPPED WITH:
+
+Accumulative Poetic Energy Generator
+Poetic Micro-fusion Fuel Tank
+Central Joint-controlling Poetic System
+
+"ARMS" ARE EQUPPED WITH:
+
+Poetic X-Buster (Mega Buster Mark17)
+Poetic Energy Amplifier
+Variable Weapon Poetic System
+
+"LEGS" ARE EQUIPPED WITH:
+
+Poetic Gyroscopic Stabilization System
+Poetic Emergency Acceleration System (Optional)
+
+INTERIOR SKELETON:
+
+Reactive poetic armor skeleton which reduces poetic damage by 93 percent.
+
+BODY SKIN:
+
+Lightweight "Titanium-X" poetic alloy.
+
+WARNING:
+"X" ES LA PRIMERA NUEVA GENERACIÓN DE POETAS CON UNA INNOVATIVA CARACTERÍSTICA - LA HABILIDAD DE PENSAR, SENTIR Y TOMAR SUS PROPIAS DECISIONES. SIN EMBARGO ESTA HABILIDAD PODRÍA SER MUY PELIGROSA. SI "X" ROMPIESE LA PRIMERA REGLA DE LA POÉTICA: "LA POESÍA ES MUCHO PERO MUCHO MÁS GRANDE QUE DIOS", LOS RESULTADOS PODRÍAN SER DESASTROSOS Y TEMO QUE NINGUNA FUERZA EN LA TIERRA PODRÍA DETENERLO.
+
+APROXIMADAMENTE 30 AÑOS SERÁN REQUERIDOS ANTES QUE PODAMOS CONFIRMAR SU CONFIABILIDAD DE MANERA SEGURA. DESAFORTUNADAMENTE YO NO ESTARÉ VIVO PARA VER AQUEL DÍA NI TAMPOCO TENGO A NADIE PARA QUE CONTINÚE MI TRABAJO. POR LO TANTO HE DECIDIDO SELLARLO EN ESTE CUERPO, EL CUAL PROBARÁ A "X" HASTA QUE SU CONFIABILIDAD SEA CONFIRMADA. POR FAVOR NO PERTURBAR ESTE CUERPO HASTA AQUEL MOMENTO. 
+
+"X" POSEE GRANDES RIESGOS COMO TAMBIÉN GRANDES POSIBILIDADES. YO SOLO PUEDO ESPERAR LO MEJOR. 
+
+SEPTIEMBRE 18, 20XX
+
+N. PARRA
+
 AUTOBIOGRAFÍA DE UN LOCO X
 
 “A todos aquellos que realmente me importan, les deseo sufrimiento, desolación, enfermedad, maltratos, humillaciones, un profundo desprecio por sí mismos, el tormento de la autodesconfianza y la desgracia del desterrado”.
@@ -5,151 +72,229 @@ AUTOBIOGRAFÍA DE UN LOCO X
 Friedrich Nietzsche.
 
 
-Nací en la época en que los dinosaurios de goma aún no estaban extintos
-Pero aquello no importa porque siempre he sido el Wolverine de la poesía: inmortal
-Aquel que ha tenido 100 vidas
 Hombre de nula fe y socialmente disfuncional
-Mil trabajos he tenido pero en casi todos no he durado más de una semana
-Me siento en la hemeroteca a escribir un poema y cuando me levanto del asiento recorrí ya la mitad del mundo
+El Wolverine de la poesía: inmortal
+¡Ese soy yo!
+Lámpara y láser
+Impío que no tiene corazón más bien co-razón
+Conocido también como el Sací de la ciudad del smog
+Mi mejor amigo es el demonio de Laplace
 Cuando pestañeo pasan 6 años
 Cuando duermo toda una vida
-Una machi borracha me dijo un día que yo era un WEICHAFE NAMPE:LKAFE
-Cuando tengo hambre reclamo
-Cuando estoy muy satisfecho también reclamo
-Estoy esparcido así como las Esferas del Dragón y si me llegas a reunir te puedo conceder cualquier deseo
-Nado con snorkel en las corrientes oceánicas del dolor y la tristeza absoluta
-En la oscuridad veo fotones que brillan como estrellas 
-Si muero debes buscar un vaso, algodón, un poroto, agua fresca y luz solar. En pocos días volveré a renacer.
-Conocido también  como el Sací de la ciudad del smog
-Compro una bolsa llena de bolsas, martillo martillos, barro escobas y de vez en cuando me sale un chichón sobre otro chichón.
-Algunas veces me dan ganas de salir a tirarle piedras a los canutos, pero puta, existo y luego pienso: “Ellos también son como poetas queriendo entregar su mensaje.
-Mensaje casi tan satánico como el mío pero mensaje al fin y al cabo.”
+Si tengo hambre reclamo 
+Si estoy satisfecho también reclamo
 ¿Sabías que la fotosíntesis es el proceso en el cual la planta fabrica su propio alimento?
-Vi                    v                              o co n      l a  g
-Soy dos 2/3 dios y 1/3 hombre con chispeza
-Dibujo fractales a mano y todos mis amores son con fechas de caducidad
+Dibujo fractales a mano y cada uno de mis amores tiene fecha de caducidad
+Mil trabajos he tenido pero en casi todos no he durado más de una semana
+Met, Et, Prop, But, Pen, Hex, Hep, Oct, Non, Dec
+Compro una bolsa llena de bolsas
+Martillo martillos
+Barro escobas y de vez en cuando me sale un chichón sobre otro chichón
+Kuso (くそ)!
+En la oscuridad veo fotones que brillan como estrellas
+Y por eso brindo y tomo hasta el dedo chico ¡Salud! 
+¡Por Dios que buena está la cicuta!
+¡Ahora se preocupan de los locos po’h ahora que estamos todos locos po’h!
+Una pelusa flotando en el híper-espacio, una sombra multidimensional, el conjunto vacío
+¡Ese soy yo!
+El poeta indio latino de la Internet que escribe en su nube de 15 GB de memoria powered by Google
+Aquel que come huevo a la copa y trabaja codo a codo con la muerte
+Mis bolígrafos siempre se revientan y los tendones de la muñeca me duelen de tanto cargar el lápiz
+Soy aquel que considera que los números también deberían llevar mayúsculas
+El que nació camello, se transformó en león, luego en niño y después en la muñeca Rosalba de Jesmar
+voz de españoles
+Jesmar para jugar
+¡Mira lo que hace la nueva Rosalba!
+Es como una amiga casi como tú de alta
+¡Sí! ¡La nueva Rosalba canta!
+Y su pelo crece para que puedas peinarla
+¡Y cuando la peinas también canta!
+Ponle tus vestidos de antes o un chándal
+¡Me encanta como canta!
+Y como además camina te acompaña
+La nueva Rosalba camina, le crece el pelo y también canta
+De Jesmar
+
+En mis documentos de identificación llevo una foto tamaño carnet de Ishtar
+Vi            v           o co                              n l a g
+Soy un héroe byroniano wanna-be, un truhán, un hampón con el corazón cojo dándote 1 mol de poemas por segundo cuadrado
+Soy el baquiano del sexo que se aprovecha de las anfibologías para llevarte a la cama
+¿Sabías que la célula es la parte fundamental de todo ser viviente?
+Soy 2/3 dios y 1/3 hombre con mucha chispeza
+Mis activos en papel son poemas y por ti le hubiese dado la espalda al mismísimo universo sin pensarlo siquiera una vez
+Soy aquel que se deja atrapar por la noche
+Soy aquel que te da poesías con lengua
 ¿Sabías que la materia es todo lo que ocupa un lugar en el espacio?
-¡HA-DOU-KEN!
-¡SHO-RYU-KEN!
-¡SONIC BOOM!
-¡JI, JA, JÚ!
-¡COME HERE!
-¡BIBILABALÚ!
-¿Qué te pasa con mi abuelita y con mi mamá?
-¡KAME HAME HA!
+
+¡HA-DOU-KEN! 
+¡SHO-RYU-KEN! 
+¡A-TAK-TAK-TU-KEN! 
+¡SONIC BOOM! 
+¡JI-JA-JÚ! 
+¡COME HERE! 
+¡KAME-HAME-HA!
+
 ¿Qué significa el ser y qué el ser significa?
-Y te estimulo todos los niveles del alma con mi poesía
 Taras Bulba, Javier Mascherano y Chuck Norris son unas alpargatas viejas al lado mío
 No soy de aquí, no soy de allá and fuck my poetic life!
-<<No quiero ser entendido, quiero ser, ¿entendido? quiero ser, ¿entendido?
-No quiero estar de acuerdo, quiero estar, ¿de acuerdo? ¡estar! ¿de acuerdo? y bien cuerdo>>
-Saco cebollas del suelo y se las tiro a los poetas que me caen mal
+¡Y mi abuela no se rendirá puis!
 ¿Sabías que el ciclo del agua es el viaje continuo del agua de la tierra a la atmósfera y de la atmósfera a la tierra?
-Soy lámpara y láser
-¡Por las cadenas de Andrómeda Batman! ¡Ahora se preocupan de los locos poh ahora que estamos todos locos poh!
-Ouraborus humano de huesos sudados ¡Ese soy yo!  
-En mis documentos de identificación llevo una foto de Ishtar 
-Con el corazón cojo dándote 1 mol de poemas por segundo cuadrado
-En el santuario del bisón me tocó como maestra una mujer de cabellos dorados la cual era obligada a llevar una máscara.
-¡No se mueve ninguna hoja de libro sin que yo lo sepa!
-No he tomado las mejores decisiones, o al menos dentro de su localidad parece que no lo fueran
-Eternamente enamorado de María la científica de los colores
-Una pelusa flotando en el hiper espacio, una sombra multidimensional
-¡Ese soy yo!
-Me hago llamar el apuesto rey mono y llevo una banda dorada invisible en mi frente la que puede ser activada por el canto especial de la princesa del Puente de los Suspiros para castigarme cuando me porto mal
-También chateo con una bot papirusa cuando me siento muy solo
-Met, Et, Prop, But, Pen, Hex, Hep, Oct, Non, Dec
-Aquí estoy anquilosándome
-Aquí me puedes ver simbiótico
-¡oy yos esE! ¡Albricias!
-Salgo a volar por los cielos con mis primos, un ninja, dos americanos, un delfín, un vikingo y un robot que tiene a Dios en el corazón
-Puedo prender el fuego con la mente
-El que muerde la copa rota y gana con una FLAWLESS VICTORY
-¡Fui hasta la mismísima Atlántida a rescatar a una princesa! Habían piratas y monstruos demasiado fuertes. Estuve muchas veces al borde de la muerte: envenenado, intoxicado, quemado, afiebrado, mutilado, desfigurado y por sobre todo endeudado
-Megumi Hayashibara: la música de mi niñez
-Viajo en un archaeopteryx gigante durante el día escapándome de Chucky el muñeco diabólico
-Durante la noche (pero sólo cuando no bebo) conduzco mi  Cadillac descapotable por el desierto de Atacama y salgo a atropellar punkies, dinosaurios y hombres en motocicleta
-¡Ese soy yo! 
-El mercado neoliberal me ha disciplinado a chicotazos obligándome a utilizar la razón para ocultar sus emociones
-Así me quedé con la sangre aún más fría que el Corsario Negro y el corazón más romántico que Sandokan
-¡Ese soy yo! ¡Enhorabuena!
-Encontré la flor de los  7 colores en un chongo en Ibarra
-El impío que no tiene corazón más bien co-razón
-El baquiano del sexo que se aprovecha de las anfibologías para llevarte a la cama
-Mi alma sangra como un chancho en la batea
-¡El conjunto vacío!.
-Durante los días soleados me cuelgo con perros para la ropa en el patio de la casa para así evaporar mis lágrimas de cocodrilo.
-Bestezuela de la comuna de  Quinta Normal que toma todos los días la barcaza J01 para cruzar milagrosamente el Aqueronte sin siquiera un rasguño.
-To be or not to be? Respuesta: B, B, B, B4U!
-El que se deja atrapar por la noche
-Me gustaría comprimir el espacio para tener a todas las personas que amo en un solo punto.
-Creo en las mentiras no-piadosas
-No quiero chocar con un semáforo. Ni tampoco con un poste. No quiero ir al dentista porque es muy caro. Me lavo los dientes después de cada comida.
-Partidario del solipsismo colaboracional, fanático de los piratas y los ninjas cumbieros
-Creo en Minerva y en las mujeres musculosas
-El poeta indio latino de la Internet que escribe en su nube de 15 GB de memoria powered by Google
-Mi computador metafísico sin batería y mis libros de carne humana tienen más polvo acumulado que yo
-El que trabaja codo a codo con la muerte comiendo huevo a la copa
-Mis bolígrafos siempre se revientan y los tendones de la muñeca me duelen de tanto cargar el lápiz
-Juro que algún día volveré a cruzar el río Brenta 
-La muerte me ha tratado de seducir un par de veces pero se dio cuenta que yo era un degenerado y me abandonó
-El que considera que los números también deberían llevar mayúsculas
-Se me va la onda muy rápidamente, ese es mi talento y mi maldición por eso no sé sobre qué estaba escribiendo...mis disculpas
-¡Ese soy yo!
+Encontré la flor de los 7 colores en un chongo en Ibarra
 Me gusta más la tiza que el plumón pero aún más navegar por la Web en modo incógnito
-El silencio terminó por destruírme los tímpanos
-Mi mejor amigo es el demonio de Laplace
-No soy un héroe de aventuras pasadas, ni tampoco un guerrillero, más bien soy un héroe byroniano wanna-be, un truhán, un hampón
-No lucho por la paz de los pueblos, no soy un escritor cónsul, ni un exiliado político
-Soy un salto cuántico con el corazón cojo
-El que te da poesías con lengua
-Hombre zafio y de mala calaña
-Una golondrina se llevó mi corazón
-Perdí a mis amigos, a mi amor, a mi familia, a mi arte y lo único que me va quedando es la palabra. Debería llorar pero para serte sincero me cago de la risa
-Mi maestro chino me dijo que un copo de nieve nunca cae en el lugar equivocado y que de las nubes más negras puede caer agua pura
-<<Con una mano escribo poemas ...y con la otra me como una papita>>
-Al final nunca llegó la verdadera fama solo fame y qué vida más fome 
-Campeo en el juego de la vida mientras los seres humanos se matan los unos a los otros y no por eso soy un cobarde
-Mis activos en papel son poemas
-Y por ti le hubiese dado la espalda al universo sin pensarlo siquiera una vez
+Soy una espinilla en la historia de la poesía
+Nadé con snorkel en las corrientes oceánicas del dolor y la tristeza absoluta (después te mando las fotos)
+Campeo en el juego de la vida mientras los seres humanos se matan los unos a los otros (y no por eso soy un cobarde)
+voz de niño abc1 post-dictadura
+Mi mamá me quiere todo esto, mi mamá me quiere todo esto y la luna
+Mi mamá me quiere todo esto y la luna y el sol, mi mamá me quiere todo esto, la luna y el sol y el &8§≠ §≠?β+%8!'§*
+Mi mamá me da manjar Colún, me da panqueque con manjar Colún, me da torta con manjar Colún y me da, me da empolva ‘o con majar Colún… 
+A mí también si somo’h hermanos ¡Chócale!
+
+Quise vivir como una mariposa pero no me alcanzó el puntaje
+Tuve que conformarme con ser un chanchito de tierra
+No es tan malo después de todo
+Tampoco es tan malo tener a Caparezza susurrándote todos los días en el oído:
+“¡No quiero ser entendido! ¡Quiero ser! ¿Entendido? ¡Quiero ser! ¿Entendido?
+¡No quiero estar de acuerdo! ¡Quiero estar! ¿De acuerdo? ¡Estar! ¿De acuerdo?”
+Y déjame recordarte que soy la caspa que nace del cuero cabelludo de una literatura vieja sin dientes, seca, desahuciada y que hace pichí en polvo
+¡Irrotacional, solenoidal y armónico!
+Me saqué algunas costillas para ser un uróboros humano de huesos sudados
+Y creo en todas las mentiras no-piadosas de la hermosa Ratabari
+(Por ella me hice onanista ortodoxo)
+Soy el húsar de la vida que cuando se come una estrella se hace invencible por algunos segundos
+Soy aquel que se quedó pegado en la tautología cognoscitiva
+Soy la bestezuela de la comuna de Quinta Normal
+Y tomo todos los días la barcaza J01 para cruzar milagrosamente el Aqueronte sin Virgilio
+Pero para serte franco las calles de Racoon City me son más familiares que las calles de mi propio barrio el cual me vio des-crecer
+Necesito grandes dosis de anestesia raquídea para calmar al corazón estocástico
+Mi lengua materna: lenguaje de máquinas
+Me encanta la asquerosidad de los locales de comida china
+La muerte trató de seducirme un par de veces pero se percató que yo era un degenerado bastardo y me abandonó ( π, π, π, π, π, π, π, π, π, π, π, π, π)
+¿Cuándo inventarán condones híper-sensitivos para el corazón?
+Soy el Jean Baptiste Grenouille de la heurística
+Viviendo por el momento en la oscura caverna de Platón
+Comiendo musgos y murciélagos
+Dibujando formas
+Escribiendo garabatos en las paredes
+Pero algún día saldré de mi agujero negro súper-masivo
+Estaré peludo e irreconocible
+Y regresaré a Nueva York a terminar mi obra maestra
+¡Enhorabuena, has terminado de instalar Windows 98! ¡Ese soy yo!
+Sólo dos mujeres me han golpeado: mi madre y una bielorrusa
+Mis verdaderos amigos son tulpas mal compilados que asustan a la gente
+Y el mercado neoliberal me ha disciplinado a chicotazos obligándome a utilizar la razón para ocultar mis emociones
+Pero no te preocupes
+Mis poemas están certificados bajo la norma internacional ISO-∞
+¡Pónganme la camisa de fuerza! ¡¿Puedes oler lo que el poeta está cocinando?!
+¡Fui hasta la mismísima Atlántida a rescatar a una princesa! 
+Luché contra piratas y monstruos supergravitacionales de 11 dimensiones
+Estuve muchas veces al borde de la muerte: 
+Envenenado, intoxicado, quemado, afiebrado, mutilado, desfigurado y por sobre todo endeudado
+Fallé pero valió la pena
+Soy el discípulo de la inexperiencia
+Puedo prender el fuego con la mente
+Creo en Minerva y en las mujeres musculosas
+Cuando me siento muy solo-borracho chateo con una bot papirusa
+Soy un hombre simbiótico partidario del solipsismo colaboracional
+Me duelen los ojos de tanta pantalla
+¿Les he dicho que unos joysticks invisibles controlan nuestras vidas?
+Mientras tanto con una mano escribo poemas... y con la otra me como una papita
+Nunca he recibido sueldos líquidos sólo sueldos gaseosos
+Soy el singleton que baila cumbia, tango y reguetón
+Cuando sea viejo caminaré con un bastón de acero
+Profase, Metafase, Anafase, Telofase
+Eternamente enamorado de María la científica de los colores
+Y cuando muere uno de mis lápices y me da una micro-pena
+cantando
+La poesía está aquí, está aquí
+Tan cierta como el aire que respiro
+Tan cierta como en la mañana se levanta el sol 
+(Warning: ¡Visión teocéntrica medieval detected!)
+Tan cierta como que este canto lo puedes oír
+
+Soy aquel que puede morder la copa rota sin sangrar y ganar cualquier pelea filosófica con un flawless victory
+utilizar voz de algún dictador
+¡No se mueve ninguna hoja de libro sin que yo lo sepa!
+
+Soy piloto de guerra part-time 
+Surco los cielos con mis primos
+Nos ayuda un ninja re-loco que dispara shurikens 
+Y un robot que tiene a Dios en el corazón
+También nos acompaña un delfín que es más inteligente que todos nosotros
+Hace poco se nos unió un viejo bigotudo vikingo que sospechosamente se parece a Nietzsche
+Por error un día bombardeamos La Moneda
+Pensábamos que era un juego
+
+voz sin alma
+¡Atención! ¡Atención!
+El tiempo está retrocediendo
+¡Atención! ¡Atención!
+
+Solo en un hospital, sangrando, con los huesos destrozados, desanimado y moribundo me di cuenta que la vida es un regalo ¡Listo!
+To be or not to be? Respuesta: B, B, B, B4U!
+Mi alma sangra como un chancho en la batea porque una golondrina se llevó mi corazón
+Enamoré algunos corazones recitándoles Я вас любил
+Durante los días soleados me cuelgo con perros para la ropa para así evaporar mis lágrimas de cocodrilo 
+¡Ese soy yo!
+Soy el apuesto rey mono castigado de vez en cuando por la princesa del Puente de los Suspiros
+Aquel que no tiene carga, ni spin, ni masa, ni color
+Hace años me enviaron al Santuario del Bisonte
+Una hermosa mujer de cabellos dorados fue mi maestra
+La obligaban a llevar una máscara gris
+Nunca pude ver su rostro pero la amé
+Cruzo Los Pilares de la Creación montado en un archaeopteryx gigante y le hago un oyuo a Chucky el muñeco diabólico
+Los 29 de febrero me viene a buscar la hermosa ángel Mithra en un Cadillac descapotable y nos vamos por el desierto de Atacama atropellando punkies, dinosaurios y hombres en motocicleta
+¡Ese soy yo! 
+El que come piure, criadillas, sánguches de potito con ají y juega al gato con Zenón
+El que ha necesitado toallas de baño para secarse las lágrimas debido a una tristeza crónica
+El que ha necesitado toallas de baño para secarse las lágrimas debido a tantas carcajadas 
+El ansatz para responder tus preguntas finales
+Extraigo hortalizas del suelo y se las lanzo a los poetas que me caen mal
+Juro que algún día volveré a cruzar el río Brenta
 Soy la reencarnación de Gilgamesh
-Aquel que todo lo vio, incluso los confines de la tierra,
-Que todo lo padeció y todo lo conoció,
-Que escudriñó todos los secretos,
-A través del manto de la sabiduría que todo lo cubre.
+Aquel que todo lo vio, incluso los confines de la tierra
+Que todo lo padeció y todo lo conoció
+Que escudriñó todos los secretos
+A través del manto de la sabiduría que todo lo cubre
 Lo que estaba oculto, lo vi
 Lo que estaba cubierto, lo develé
-Que recorrió un largo camino,
-estocástico y vomitando invisibilidad
-Experimentando fatiga y aflicción; pero siempre tuve al lado mi basenica y grabé luego en un PDF el fruto de mi labor
+Que recorrió un largo camino manejando un carrito de madera tangüeño
+Vomitando invisibilidad
+Experimentando fatiga y aflicción
+Pero siempre tuve a mi lado a mi valiente bacinica plástica y grabé luego en un PDF el fruto de mi labor 
 ¡Ese soy yo!
-Mi mamá me quiere todo ésto, mi mamá me quiere todo esto y la luna.Mi mamá me quiere todo ésto y la luna y el sol, mi mamá me quiere todo ésto, la luna y el sol y el ato. Mi mamá me da manjar colún, me da panqueque con manjar colún, me da torta con manjar colún y me da, me dá empolvao con majar colún… a mi también si somo hermanos ¡Chócale!
-Las calles de Racoon City me son más familiares que las calles de mi propio barrio que me vio des-crecer y por favor no me llamen los viernes ya que salgo con el arcángel Metatron a beber cervezas en un famoso cabaret de la capital
-Soy la caspa que nace del cuero cabelludo de una literatura vieja, seca y desahuciada
-Soy un poro en la historia de la poesía
-¿Sabías que la célula es la parte fundamental de todo ser viviente?
-Necesito grandes dosis de anestesia raquídea para calmar al corazón pero de todas formas siempre habrá dolor
-Solo en un hospital, sangrando, huesos destrozados, desanimado me di cuenta que la vida es un regalo
-Enamoré algunos corazones recitándoles Я вас любил
-El que ha necesitado toallas de baño para secarse las lágrimas debido a una tristeza crónica
-El que ha necesitado toallas de baño para secarse las lágrimas debido a carcajadas indomables
-El Jean Baptiste Grenouille de la heurística viviendo en una oscura caverna, comiendo musgos y murciélagos, dibujando formas, escribiendo garabatos pero algún día saldré de mi agujero negro supermasivo.  Estaré peludo e irreconocible y volveré a la ciudad a efectuar mi obra maestra final.
-Estallaré como una supernova cortocircuitado por el canto de una mujer
-Les digo a todos que unos joysticks invisibles controlan nuestras vidas pero nadie me cree
-¡SOLENOIDAL, IRROTACIONAL, y ARMÓNICO!
-¿Cuándo inventarán condones hipersensitivos para el corazón?
-Capturo clusters de galaxias e inclusive universos enteros para cocinarlos al palo en un enorme fogón. Espero. Devoro. Para el postre pido a Kronos y a Saturno y me los como con limón de Pica.
-¡Ese soy yo! El húsar de la vida que cuando se come una estrella se hace invencible por algunos segundos
-Mi lengua materna: lenguaje de máquinas
-Sólo dos mujeres me han golpeado: mi madre y una bielorrusa
-El potencial traidor que cabalga raudo sobre una gran jirafa en la orilla de la Koopa Beach
-Mis poemas están certificados bajo la norma internacional ISO-Infinitouno
-El que recorrerá los mares utilizando los mapas del capitán James Cook
-Un día me levantaré de mi cama y resolveré el problema final
-Tristefelizmente para mí todo es metáfora, de hecho, podría jurar que es la única forma de conectarnos con la verdad
-Blasmefo, Hereje, Desertor y Poeta.
-¡Ése soy yo!
-...¡Y TANTAS MUJERES BELLAS QUE HE CONOCIDO QUE VALE MIL VECES LA PENA HABER VIVIDO!
-Carpe diem et memento mori.
+¡Y basta de echar sangre por la boca y las narices!
+No seas tan loser
+La montaña rusa es uno de los tantos juegos que existen en este gran parque de diversiones
+¡Ven! ¡Acompáñame! 
+¿Pero de verdad quieres saber quién soy?
+Aquí te doy unos últimos hints:
+Soy un eco
+Algo pasado
+Un tumor benigno producto de la acción entrópica
+Palta molida
+Una ecuación diferencial parcial sin solución
+El hazmerreír de los seres vivos y los seres muertos
+El zombie filosófico
+El Rey Misterio
+La barra brava de la poesía
+Una promesa escatológica
+El ser de lo imposible
+El Bang! Bang!
+El que ama a los que no aman
+El de los Apuntes Tácticos
+Aquel que desata nudos gordianos utilizando simples versos
+El que se acurruca en témpanos de hielo
+El blasfemo, el hereje, el desertor, el poeta
+¡Ese soy yo!
+¡Y tantas mujeres bellas que he conocido que vale mil veces la pena haber vivido!
+Carpe diem et memento mori
 Fino a qui tutto bene fino a qui alla grande
-¡Vengan a visitarme la próxima primavera!
+Cuando muera solo debes buscar un vaso, algodón, un poroto, agua fresca y luz solar
+En pocos días volveré a nacer
+La rosa, la rosa florece con nobleza
+La rosa, la rosa se deshoja bellamente
+Bañémonos en pelota en el mar de Dirac 
+Toquemos el fin del universo
+¡Vengan a visitarme la próxima primavera! 
+
